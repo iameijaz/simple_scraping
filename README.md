@@ -1,1 +1,1 @@
-# simple_scraping
+## Collection of simple scraping scripts.
